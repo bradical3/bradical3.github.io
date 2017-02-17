@@ -1,5 +1,5 @@
 # main text of home
-name: Brad Rogers
+name: brad rogers
 bio: a man who  tries to do smart
 
 # twitter summary info
@@ -39,7 +39,7 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
- linkedin: mylinkedin
+linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
 github: mygithub
@@ -55,7 +55,7 @@ authors:
         name: brad rogers
         bio: analysis, accessible
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/profile.png
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
