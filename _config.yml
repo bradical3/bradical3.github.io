@@ -71,12 +71,10 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
-science-fiction: true
-science-fact: true
-links: true
-favorite-things: true
-
+scifi: true
+science: true
+misc: true
+research: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
