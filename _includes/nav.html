@@ -1,7 +1,7 @@
 <nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}">
     <ul class="list">
         {% if site.about == true %}
-           {% if page.title != "About" %}
+           {% if page.title != "about" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/about">me</a>
                 </li>
