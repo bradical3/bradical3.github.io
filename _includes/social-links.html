@@ -82,6 +82,12 @@
             <svg class="icon icon-vimeo"><use xlink:href="#icon-vimeo"></use></svg>
         </a>
     {% endif %}
+    
+    {% if site.goodreads %}
+        <a class="link" data-title="goodreads.com/{{ site.goodreads }}" href="https://www.goodreads.com/user/show/{{ site.goodreads }}" target="_blank">
+            <svg class="icon icon-goodreads"><use xlink:href="#icon-goodreads"></use></svg>
+        </a>
+    {% endif %}
 
     {% if site.email %}
         <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
@@ -89,9 +95,4 @@
         </a>
     {% endif %}
 
-    {% if site.goodreads %}
-        <a class="link" data-title="goodreads.com/{{ site.goodreads }}" href="https://www.goodreads.com/user/show/{{ site.goodreads }}" target="_blank">
-            <svg class="icon icon-goodreads-sign"><use xlink:href="#icon-goodreads-sign"></use></svg>
-        </a>
-    {% endif %}
 </div>
