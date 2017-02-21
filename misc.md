@@ -2,7 +2,7 @@
 title: misc
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+miscellaneous links bellow.
 
 <br><a> <b>GEEK</b></a> <br>
 <a href="http://www.lumina.com/">analytica</a> <br>
