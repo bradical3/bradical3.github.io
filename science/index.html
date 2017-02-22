@@ -9,7 +9,7 @@ title: science
 		<p class="text-center">Nothing published yet!</p>
 	{% elsif site.paginate %}
 		{% for post in paginator.posts %}
-			{% if post.category == 'blog' %}
+			{% if post.category == 'science' %}
 				{% include blog-post.html %}
 			{% endif %}
 		{% endfor %}
