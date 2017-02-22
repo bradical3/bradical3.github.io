@@ -37,7 +37,6 @@ footer,
 header,
 main, /* 2 */
 menu,
-nav,
 section,
 summary { /* 1 */
   display: block;
@@ -47,9 +46,11 @@ summary { /* 1 */
  * Add the correct display: in IE 9-.
  */
 
+
 audio,
 canvas,
 progress,
+nav,
 video {
   display: inline-block;
 }
