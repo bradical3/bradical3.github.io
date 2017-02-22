@@ -33,6 +33,8 @@ aside,
 details, /* 1 */
 figcaption,
 figure,
+header,
+nav,
 footer,
 main, /* 2 */
 menu,
@@ -49,8 +51,6 @@ summary { /* 1 */
 audio,
 canvas,
 progress,
-header,
-nav,
 video {
   display: inline-block;
 }
