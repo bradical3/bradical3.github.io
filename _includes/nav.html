@@ -2,8 +2,8 @@
     <ul class="list">
         {% if page.title != "Home" %}
             <li class="item">
-                <a display = "inline" class="link" href="{{ site.url }}/">
-                 <img class="selfie" width ="25px" alt="{{ site.name }}" onmouseover="boxshadow='0 0px 4px 0 rgba(0,0,0,0.18), 0 0px 12px 0 rgba(0,0,0,0.15)
+                <a class="link" href="{{ site.url }}/">
+                 <img class="selfie" width ="25px" display = "inline" alt="{{ site.name }}" onmouseover="boxshadow='0 0px 4px 0 rgba(0,0,0,0.18), 0 0px 12px 0 rgba(0,0,0,0.15)
 '; opacity='0.8';" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
                 </a>
             </li>
