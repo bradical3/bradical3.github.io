@@ -2,24 +2,16 @@
 title: about
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>i am a graduate student pursuing a phd in computational psychology and cognitive science at indiana university. my primary research interest is investigating how people make predictions about uncertain situations. this involves applying probabilistic models to reasoning process that aren't usually considered logical or rational--such as analogy, possibility, or counterfactuals. I'm also interested in how we learn by inspecting existing knowledge rather than by collecting new observations--such as through thought experiments or science fiction. i am enamored by analytic approaches such as bayesian estimation, information & mdl theory, and model selection.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>previously i was a consultant to electric utilities and regulators across the us. i evaluated and analyzed investments about non-traditional infrastructure such as energy efficiency programs, renewable generation, consumer behavior, and grid digitization. i still freelance from time to time.</p>
+
+<p>my wife and i have three school age children. we live in bloomington indiana. </p>
 
 <h2>Skills</h2>
 
+<!---
 <ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
 	<li>Responsive (Mobile First)</li>
@@ -36,11 +28,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>Scrum and Kanban</li>
 	<li>TDD e Continuous Integration</li>
 </ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+-->
