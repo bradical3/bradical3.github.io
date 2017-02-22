@@ -3,7 +3,7 @@
         {% if page.title != "Home" %}
             <li class="item">
                 <a class="link" href="{{ site.url }}/">
-                 <img class="selfie" width ="50px" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
+                 <img class="selfie" width ="40px" height="40px" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
                 </a>
             </li>
         {% endif %}
