@@ -15,7 +15,7 @@ miscellaneous links bellow.
 <a href="http://datacolada.org//">data colada</a> <br>
 
 <br> <b>GEEK OUT</b> <br>
-<a href="https://netrunnerdb.com/">https://shiny.rstudio.com/</a> <br>
+<a href="https://netrunnerdb.com/">netrunnerdb</a> <br>
 <a href="https://www.jinteki.net/">jinteki.net</a> <br>
 <a href="http://io9.gizmodo.com/">i09 - pop scifi/fantasy/a> <br>
 <a href="https://www.peacecorps.gov/">us peace corps</a> <br>
