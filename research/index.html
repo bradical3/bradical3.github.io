@@ -2,7 +2,7 @@
 # blog page must be named index.html and in its own folder to support pagination
 # https://jekyllrb.com/docs/pagination/
 layout: page
-title: research
+title: blog
 ---
 <section class="list">
 	{% if site.posts.size == 0 %}
@@ -17,7 +17,9 @@ title: research
 		{% include pagination.html%}
 	{% else %}
 		{% for post in site.posts %}
+	            {% if post.category == 'research' %}
 			{% include blog-post.html %}
+	            {% endif %}
 		{% endfor %}
 	{% endif %}
 </section>
