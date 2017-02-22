@@ -29,6 +29,7 @@ miscellaneous links bellow.
 <a target="_blank" href="http://www.uwbadgers.com/schedule.aspx?path=mbball">wisconsin basketball</a> <br>
 <a target="_blank" href="http://iuhoosiers.com/schedule.aspx?path=mbball">indiana basketball</a> <br>
 <a target="_blank" href="http://www.crossfit.com">crossfit</a> <br>
+<a target="_blank" href="http://cutterssoccer.org">crossfit</a> <br>
 
 <br> <b>JAZZ</b> <br>
 <a target="_blank" href="https://itunes.apple.com/us/album/alone-remastered/id417149">bill evans - alone</a> <br>
