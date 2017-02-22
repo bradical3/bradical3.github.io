@@ -3,7 +3,7 @@ title: about
 layout: page
 ---
 
-<p>i am a graduate student pursuing a phd in computational psychology and cognitive science at indiana university. my primary research interest is investigating how people make predictions about uncertain situations. this involves applying probabilistic models to reasoning process that aren't usually considered logical or rational--such as analogy, possibility, or counterfactuals. I'm also interested in how we learn by inspecting existing knowledge rather than by collecting new observations--such as through thought experiments or science fiction. i am enamored by analytic approaches such as bayesian estimation, information & mdl theory, and model selection.</p>
+<p>i am a graduate student pursuing a phd in computational psychology and cognitive science at indiana university. my primary research interest is investigating how people make predictions about uncertain situations. this involves applying probabilistic models to reasoning process that aren't usually considered logical or rational--such as analogy, possibility, or counterfactuals. i'm also interested in how we learn by inspecting existing knowledge rather than by collecting new evidence or observation--such as through analysis, thought experiments, or science fiction. i am enamored by analytic approaches such as bayesian estimation, information & mdl theory, and model selection.</p>
 
 <p>previously i was a consultant to electric utilities and regulators across the us. i evaluated and analyzed investments about non-traditional infrastructure such as energy efficiency programs, renewable generation, consumer behavior, and grid digitization. i still freelance from time to time.</p>
 
