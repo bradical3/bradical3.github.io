@@ -18,6 +18,9 @@
         {% endif %}
 
         {% if site.science == true %}
+           {% if page.title == "science" %}
+                <li class="item" color = "grey">science</li>
+           {% endif %}
             {% if page.title != "science" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/science">science</a>
@@ -26,6 +29,9 @@
         {% endif %}
 
         {% if site.blog == true %}
+           {% if page.title == "blog" %}
+                <li class="item" color = "grey">blog</li>
+           {% endif %}
             {% if page.title != "blog" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/science">blog</a>
@@ -34,6 +40,9 @@
         {% endif %}
 
         {% if site.scifi == true %}
+           {% if page.title == "scifi" %}
+                <li class="item" color = "grey">scifi</li>
+           {% endif %}
             {% if page.title != "scifi" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/scifi">scifi</a>
@@ -42,6 +51,9 @@
         {% endif %}
 
         {% if site.research == true %}
+           {% if page.title == "research" %}
+                <li class="item" color = "grey">research</li>
+           {% endif %}
             {% if page.title != "research" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/research">research</a>
@@ -50,6 +62,9 @@
         {% endif %}
 
         {% if site.misc == true %}
+           {% if page.title == "misc" %}
+                <li class="item" color = "grey">misc.</li>
+           {% endif %}
             {% if page.title != "misc" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/misc">misc.</a>
