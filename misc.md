@@ -12,18 +12,18 @@ miscellaneous links bellow.
 <a href="https://atom.io/">atom</a> <br>
 <a href="https://shiny.rstudio.com/">shiny</a> <br>
 <a href="https://fivethirtyeight.com/">538 - nate silver's blog</a> <br>
-<a href="http://datacolada.org//">data colada</a> <br>
+<a href="http://datacolada.org/">data colada</a> <br>
+<a href="https://graspablemath.com/">graspable math</a> <br>
 
 <br> <b>GEEK OUT</b> <br>
 <a href="https://netrunnerdb.com/">netrunnerdb</a> <br>
 <a href="https://www.jinteki.net/">jinteki.net</a> <br>
 <a href="http://io9.gizmodo.com/">i09 - pop scifi/fantasy/a> <br>
-<a href="https://www.peacecorps.gov/">us peace corps</a> <br>
 
 <br><b>G's Blog</b> <br>
 <a href="www.ginarogersphotography.com">ginarogersphotography</a> <br>
 
-<br><a> <b>SPORTS</b></a> <br>
+<br> <b>SPORTS</b> <br>
 <a href="www.cartilagefreecaptain.com">tottenham hotspur @ cartyfree</a> <br>
 <a href="http://www.al.com/auburnfootball">au football @ al.com</a> <br>
 <a href="http://www.uwbadgers.com/schedule.aspx?path=mbball">wisconsin basketball</a> <br>
@@ -49,6 +49,8 @@ miscellaneous links bellow.
 <a href="http://psych.indiana.edu/">indiana psychology</a> <br>
 <a href="http://www.cogs.indiana.edu/">indiana cognitive science</a> <br>
 <a href="https://en.wikipedia.org/wiki/Montessori_education">montessori</a> <br>
+<a href="https://www.peacecorps.gov/">us peace corps</a> <br>
+
 
 <br> <b>PEOPLE</b> <br>
 <a> sushil bhavnani </a> <br>
