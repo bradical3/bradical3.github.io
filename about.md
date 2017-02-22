@@ -9,9 +9,8 @@ layout: page
 
 <p>my wife and i have three school age children. we live in bloomington indiana. </p>
 
-<h2>Skills</h2>
-
 <!---
+<h2>Skills</h2>
 <ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
 	<li>Responsive (Mobile First)</li>
