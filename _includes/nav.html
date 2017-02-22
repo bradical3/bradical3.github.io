@@ -9,7 +9,7 @@
         {% if site.about == true %}
            {% if page.title == "about" %}
                 <li class="item">
-                    <a color = "grey">me</a></li>
+                    <a class ="link" color = "grey">me</a></li>
            {% endif %}
            {% if page.title != "about" %}
                 <li class="item">
@@ -21,7 +21,7 @@
         {% if site.science == true %}
            {% if page.title == "science" %}
                 <li class="item">
-                    <a color = "grey">science</a></li>
+                    <a class ="link" color = "grey">science</a></li>
            {% endif %}
             {% if page.title != "science" %}
                 <li class="item">
@@ -33,11 +33,11 @@
         {% if site.blog == true %}
            {% if page.title == "blog" %}
                 <li class="item">
-                    <a color = "grey">blog</a></li>
+                    <a class ="link" color = "grey">blog</a></li>
            {% endif %}
             {% if page.title != "blog" %}
                 <li class="item">
-                    <a class="link" href="{{ site.url }}/science">blog</a>
+                    <a class="link" href="{{ site.url }}/blog">blog</a>
                 </li>
             {% endif %}
         {% endif %}
@@ -45,7 +45,7 @@
         {% if site.scifi == true %}
            {% if page.title == "scifi" %}
                 <li class="item">
-                    <a color = "grey">scifi</a></li>
+                    <a class ="link" color = "grey">scifi</a></li>
            {% endif %}
             {% if page.title != "scifi" %}
                 <li class="item">
@@ -57,7 +57,7 @@
         {% if site.research == true %}
            {% if page.title == "research" %}
                 <li class="item">
-                    <a color = "grey">research</a></li>
+                    <a class ="link" color = "grey">research</a></li>
            {% endif %}
             {% if page.title != "research" %}
                 <li class="item">
@@ -69,7 +69,7 @@
         {% if site.misc == true %}
            {% if page.title == "misc" %}
                 <li class="item">
-                    <a color = "grey">misc.</a></li>
+                    <a class ="link" color = "grey">misc.</a></li>
            {% endif %}
             {% if page.title != "misc" %}
                 <li class="item">
