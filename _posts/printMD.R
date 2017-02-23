@@ -9,7 +9,7 @@ printMetaData <- function(md){
   writeLines(paste('projects:', md$projects))
   writeLines(paste('hidden:', md$hidden))
   writeLines(paste('description:', md$description))
-  writeLines(paste('writeLinesegory:', md$writeLinesegory))
+  writeLines(paste('category:', md$category))
   writeLines(paste('author:', md$author))
   writeLines('---')
 }

@@ -11,9 +11,8 @@ projects: TRUE
 hidden: FALSE # don't count this post in blog pagination
 description: "This is a test post."
 externalLink: false
-output: 
-  md_document: 
-    variant: markdown_github
+output: html_document
+
 ---
 
 
@@ -21,10 +20,12 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
 ```{r meta, echo=FALSE, comment= ''}
 source('printMD.R')
 printMetaData(rmarkdown::metadata)
 ```
+
 
 #This is a Test
 
